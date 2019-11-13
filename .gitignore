@@ -5,3 +5,4 @@
 /server/node_modules
 /server/local.settings
 /server/package-lock
+/server/.vscode
