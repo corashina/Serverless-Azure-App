@@ -1,0 +1,7 @@
+/client/build
+/client/node_modules
+/client/package-lock
+
+/server/node_modules
+/server/local.settings
+/server/package-lock
